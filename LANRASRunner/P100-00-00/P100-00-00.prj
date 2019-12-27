@@ -1,0 +1,61 @@
+Proj Title=P100-00-00
+Current Plan=p01
+Default Exp/Contr=.3,.1
+English Units
+Geom File=g01
+Flow File=f01
+Flow File=f02
+Plan File=p01
+Plan File=p02
+Y Axis Title=Elevation
+X Axis Title(PF)=Main Channel Distance
+X Axis Title(XS)=Station
+BEGIN DESCRIPTION:
+HCFCD Watershed Unit ID: P 
+M3 Study Identifier: 2007_Effective_P
+Engineer: HCFCD   
+Project Name: EffectiveFEMA Study for watershed Greens Bayou (P)
+Study Completion Date: 6/18/2007
+FEMA Case Number: [No Data]
+FEMA Approval Date: [No Date in Database]
+Vertical Datum: NAVD 1988
+Datum Note: 2001 ADJ
+
+HYDRAULICS
+HCFCD Unit No.:  P100-00-00 
+Hydraulic Program Name: HEC-RAS
+Hydraulic Program Version: 3.0.1 
+Steady Hydraulic Model: Yes
+Unsteady Hydraulic Model: No
+
+Update1:
+The effective FEMA hydraulic model for unit number P100-00-00 has been updated by FEMA LOMR 07-06-1884P with an effective date of 9/27/2007.
+
+Update2:
+The effective FEMA hydraulic model for unit number P100-00-00 has been updated by FEMA LOMR 07-06-2076P with an effective date of 11/21/2007.
+
+Update3:
+The effective FEMA hydraulic model for unit number P100-00-00 has been updated by FEMA LOMR 08-06-2044P with an effective date of 1/30/2009.
+
+Update4:
+The effective FEMA hydraulic model for unit number P100-00-00 has been updated by FEMA LOMR 11-06-1098P with an effective date of 7/20/2011.
+
+Update5:
+HCFCD Nomenclature Update 2014,  Effective date of 7/20/2011.
+
+Update 6:
+The effective FEMA hydraulic model for unit number P100-00-00 has been updated by FEMA LOMR 13-06-2759P with an effective date of 9/15/2014.
+END DESCRIPTION:
+DSS Start Date=
+DSS Start Time=
+DSS End Date=
+DSS End Time=
+DSS Export Filename=
+DSS Export Rating Curves= 0 
+DSS Export Rating Curve Sorted= 0 
+DSS Export Volume Flow Curves= 0 
+DXF Filename=..\P1000000.
+DXF OffsetX= 0 
+DXF OffsetY= 0 
+DXF ScaleX= 1 
+DXF ScaleY= 10 

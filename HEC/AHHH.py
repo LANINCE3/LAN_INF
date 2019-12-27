@@ -1,0 +1,1 @@
+"CurrOwner" LIKE 'CITY OF %' OR "CurrOwner" LIKE 'COUNTY OF %' AND "CurrOwner" LIKE 'USA' AND "CurrOwner" LIKE '%FLOOD%DISTRICT%'

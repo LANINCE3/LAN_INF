@@ -1,0 +1,51 @@
+Plan Title=Effective MP 2018
+Version=Version 3.0.1  May 2012
+Short Identifier=Eff+LOMR MP 
+Simulation Date=,,,
+Geom File=g01
+Flow File=f01
+Subcritical Flow
+K Sum by GR= 0 
+Std Step Tol= 0.01 
+Critical Tol= 0.01 
+Num of Std Step Trials= 20 
+Max Error Tol= 0.3 
+Flow Tol Ratio= 0.001 
+Split Flow NTrial= 30 
+Split Flow Tol= 0.02 
+Split Flow Ratio= 0.02 
+Log Output Level= 0 
+Friction Slope Method= 1 
+Unsteady Friction Slope Method= 2 
+Parabolic Critical Depth
+Global Vel Dist= 0 , 0 , 0 
+Global Log Level= 0 
+CheckData=True
+Encroach Param= 0 ,0,0, 2 
+BEGIN DESCRIPTION:
+FEMA Effective Floodway June 2007 + ... + LOMR 13-06-2759P+LOMR 18-06-0277P
+END DESCRIPTION:
+Computation Interval=1HOUR
+Output Interval=1HOUR
+Run HTab= 0 
+Run UNet= 0 
+Run PostProcess= 0 
+UNET Theta= 1 
+UNET ZTol= 0.02 
+UNET ZSATol= 0.1 
+UNET MxIter= 20 
+UNET MaxInSteps= 20 
+UNET DtIC= 0 
+UNET DtMin= 0 
+UNET MaxCRTS= 20 
+UNET WFStab= 2 
+UNET SFStab= 1 
+UNET WFX= 1 
+UNET SFX= 1 
+UNET Convert EG Bridges=-1 
+UNET Use Existing IB Tables=-1 
+Instantaneous Interval=1HOUR
+Write IC File= 0 
+IC Time=0
+Write Velocity= 0 
+Write Detailed= 0 
